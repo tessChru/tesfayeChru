@@ -1,5 +1,5 @@
 # tesfayeChru
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tesfaye Chru 👋
 
 ### Senior Java Developer | Microservices | Kafka | MongoDB | AWS
 
